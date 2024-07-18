@@ -1,1 +1,1 @@
-## End to End ml project with mlops
+## End to End MAchine Learning Project
